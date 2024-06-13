@@ -4,3 +4,6 @@
 # User data
 data/*
 !data/.gitkeep
+
+# Temporary file
+*.pyc
